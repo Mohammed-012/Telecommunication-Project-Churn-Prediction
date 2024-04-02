@@ -55,6 +55,6 @@ For predicting the churn I have used multiple models and selected XGBoot model w
 
 
 ## Forecasting App
-[![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ahmed-sayed99-telecommunication-churn-prediction-app-r44rpn.streamlit.app/) 👈 Click here!
+[![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://telecommunication-project-churn-prediction-2vvfx87r5stdbxuewdh.streamlit.app) 👈 Click here!
 
 
