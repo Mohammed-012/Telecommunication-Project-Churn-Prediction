@@ -54,7 +54,6 @@ The data set includes the following variables:
 For predicting the churn I have used multiple models and selected XGBoot model which was giving the best accracry according to the evaluation metric (Used Precision,Recall and F1 score as Evaluation metric because the dataset was unbalanced)
 
 
-## Forecasting App
-[![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://telecommunication-project-churn-prediction-2vvfx87r5stdbxuewdh.streamlit.app) 👈 Click here!
+(https://telecommunication-project-churn-prediction-2vvfx87r5stdbxuewdh.streamlit.app) 👈 App Link
 
 
